@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "status": "signed-local-development",
+  "signature": "ed25519",
+  "files": {
+    "keeptrace.py": "4002a76a640bf77409a5b6742cb963c1b6d11e23c2ed2f9ef6740c576b41e5ad",
+    "official_tools/catalog.json": "32f781bf2c8f2eaa80cca031de75484bb68142425d7db225edf679c567357172",
+    "README.md": "b78507189a75facc01fe82cd602213dc135c47398d786b167d5d6ef74a03f052",
+    ".gitignore": "600adce1cddb12bfddceb7ba46eae65f72b67a81db52be2d8f51e982fa125815",
+    "keeptrace": "da8cf409e984fc5a56f24c7e27c3e37a4847231592b33e799aebdaceec4756cb"
+  }
+}

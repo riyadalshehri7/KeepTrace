@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+security/*private*
+security/keys/
+release-private.key
+cases/
+custom_tools/
